@@ -9,7 +9,6 @@ Automated CI/CD pipelines, Docker containerization, Terraform IaC, and AWS deplo
 ### 1. CI/CD Pipeline with GitHub Actions & AWS
 - Automated build, test, and deploy of a simple web app to AWS EC2/S3  
 - Tools: GitHub Actions, AWS CodeDeploy / S3 static hosting  
-Test workflow trigger – March 2026
 - Status: In progress / Completed ...
 
 ### 2. Docker Containerization & Multi-Container App
