@@ -11,12 +11,14 @@ Automated CI/CD pipelines, Docker containerization, Terraform IaC, and AWS deplo
 - Tools: GitHub Actions, AWS CodeDeploy / S3 static hosting  
 - Status: Completed 
 - Live demo: http://gavin-devops-demo-march2026-east.s3-website.us-east-2.amazonaws.com
-  (Auto-deploys via GitHub Actions on push – Flask app in Python)
+(Auto-deploys via GitHub Actions on push – Flask app in Python)
 
-### 2. Docker Containerization & Multi-Container App
-- Containerized web app + database using Docker + docker-compose  
-- Tools: Docker, Docker Hub, multi-stage builds  
-- Status: Planned / In progress
+### 2. Docker Containerization
+- Containerized a Python Flask web application using Docker
+- Created Dockerfile, built and tested container locally
+- Tools: Docker, Dockerfile
+- Status: **Completed**
+- Can be run locally with: `docker build -t gavin-flask-demo .` followed by `docker run -p 3000:3000 gavin-flask-demo`
 
 ### 3. Infrastructure as Code with Terraform
 - Provisioned AWS resources (VPC, EC2, S3, security groups) via Terraform  
