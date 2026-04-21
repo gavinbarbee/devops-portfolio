@@ -30,7 +30,7 @@ Automated CI/CD pipelines, Docker containerization, Terraform IaC, and AWS deplo
 - Automation: GitHub Actions, Terraform, Docker  
 - Languages: Node.js / Python (simple apps)  
 
-Currently pursuing AWS Certified Cloud Practitioner (CLF-C02)  
+**AWS Certified Cloud Practitioner (CLF-C02)** – Passed April 2026
 Open to feedback / collaboration — connect on LinkedIn: linkedin.com/in/[gavinbarbee]
 
 Built with unrelenting ambition. Let's build unbreakable systems.
